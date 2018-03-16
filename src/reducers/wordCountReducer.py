@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-# http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
 
 from operator import itemgetter
 import sys
