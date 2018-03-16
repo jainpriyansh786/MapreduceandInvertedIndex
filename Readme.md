@@ -1,3 +1,2 @@
-##Inverted Index Hadoop
+##Inverted Index with Mapreduce in Python
 
-#Kiran Kumar Lekkala
